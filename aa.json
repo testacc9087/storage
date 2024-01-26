@@ -1,3 +1,6 @@
-{
-  "is_active": true
-}
+[
+  {
+    "is_active": true,
+    "version": "v1.0.0"
+  }
+]
